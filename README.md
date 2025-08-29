@@ -1,6 +1,6 @@
 # 👾 Hi, I'm Hosam Elshaboury  
 
-- A passionate **Web Developer in progress** from Egypt.    
+- A passionate **Software Engineer** from Egypt.    
 
 ---
 
