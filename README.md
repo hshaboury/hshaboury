@@ -1,16 +1,16 @@
-## Hi there 👋
+#  Hi, I'm Hosam Elshaboury  
 
-<!--
-**hshaboury/hshaboury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👾 A passionate **Web Developer in progress** from Egypt.    
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Current Goals
+- Master the **MERN Stack** for full-stack development.    
+- Build more **real-world projects** .  
+- Explore **Cloud & DevOps basics** 
+
+---
+
+## 📊 GitHub Stats
+![Hosam's GitHub stats](https://github-readme-stats.vercel.app/api?username=hosamelshaboury&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hosamelshaboury&layout=compact&theme=tokyonight)
