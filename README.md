@@ -15,6 +15,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hshaboury&show_icons=true&theme=tokyonight" alt="Hosam's GitHub stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hshaboury&layout=compact&theme=tokyonight" alt="Top Langs" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hshaboury&layout=compact&theme=tokyonight" alt="Top Langs" height="185"/>
 </p>
 
