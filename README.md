@@ -7,7 +7,7 @@
 ## 🎯 Current Goals
 - Master the **MERN Stack** for full-stack development.    
 - Build more **real-world projects** .  
-- Explore **Cloud & DevOps basics** 
+- Explore **Cloud & DevOps basics** .
 
 ---
 
