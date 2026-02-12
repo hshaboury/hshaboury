@@ -4,13 +4,6 @@
 
 ---
 
-## 🐾 Current Goals
-- Master the **MERN Stack** for full-stack development.    
-- Build more **real-world projects** .  
-- Explore **Cloud & DevOps basics** .
-
----
-
 ## 👁️‍🗨️ GitHub Stats
 
 <div align="center">
